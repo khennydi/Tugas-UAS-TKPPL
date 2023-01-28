@@ -27,16 +27,16 @@ For Database: SQL
 Some screenshots of the pages.
 
 ### Signup Page 
-<img src="../master/images/main1.png"/>
+<img src="../main/images/main1.png"/>
 
 ### Take Appointment
-<img src="../master/images/appointment1.png"/> 
+<img src="../main/images/appointment1.png"/> 
 
 ### Current Appointments
-<img src="../master/images/current1.png"/> 
+<img src="../main/images/current1.png"/> 
 
 ### Search Staff
-<img src="../master/images/search.png"/> 
+<img src="../main/images/search.png"/> 
 
 
 
@@ -85,7 +85,7 @@ Servername: .\SQLEXRPESS
 Authentication: Windows Authentication 
 ```
 <p align="center">
-<img src="../master/images/connection.png" width = "500"/> 
+<img src="../main/images/connection.png" width = "500"/> 
 </p>
 
 3- Now open Schema.sql file in Database Files folder and execute it all. This will create the database and the tables. Afterwards execute the following sql files: Admin.sql, Doctor.sql, Patient.sql, Signup.sql.
@@ -94,7 +94,7 @@ Authentication: Windows Authentication
 
 5- Everything is setup now! You can run the Visual Studio Project by opening Clinic Management System.sln and then select the SignUp.aspx page and click run button named IIS Express. 
 <p align="center">
-<img src="../master/images/run1.png"/> 
+<img src="../main/images/run1.png"/> 
 </p>
 
 <br>
